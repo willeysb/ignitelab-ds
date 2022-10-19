@@ -7,4 +7,4 @@ npm run storybook
 
 http://localhost:6006/
 
-Edit files in src/components
+Edit files in src/components/
